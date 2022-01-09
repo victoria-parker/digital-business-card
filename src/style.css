@@ -116,3 +116,6 @@ footer ul{
     align-items: center;
     gap:23.96px;
 }
+footer ul a{
+    color:#DCDCDC;
+}
