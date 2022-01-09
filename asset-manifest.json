@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.e13a28e2.css",
-    "main.js": "/static/js/main.e06012d6.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/portrait.jpg": "/static/media/portrait.4d101aae29b51adab479.jpg",
-    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/index.html",
-    "main.e13a28e2.css.map": "/static/css/main.e13a28e2.css.map",
-    "main.e06012d6.js.map": "/static/js/main.e06012d6.js.map"
+    "main.css": "/digital-business-card/static/css/main.f3d37fa2.css",
+    "main.js": "/digital-business-card/static/js/main.d8419fdb.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/digital-business-card/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/portrait.jpg": "/digital-business-card/static/media/portrait.4d101aae29b51adab479.jpg",
+    "static/media/fontawesome-webfont.eot": "/digital-business-card/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/digital-business-card/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/digital-business-card/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/digital-business-card/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/digital-business-card/index.html",
+    "main.f3d37fa2.css.map": "/digital-business-card/static/css/main.f3d37fa2.css.map",
+    "main.d8419fdb.js.map": "/digital-business-card/static/js/main.d8419fdb.js.map"
   },
   "entrypoints": [
-    "static/css/main.e13a28e2.css",
-    "static/js/main.e06012d6.js"
+    "static/css/main.f3d37fa2.css",
+    "static/js/main.d8419fdb.js"
   ]
 }
