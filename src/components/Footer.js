@@ -7,10 +7,10 @@ export default function Footer(){
     return (
         <footer>
             <ul>
-                <li><FontAwesomeIcon icon={faTwitterSquare}/></li>
-                <li><FontAwesomeIcon icon={faFacebookSquare}/></li>
-                <li><FontAwesomeIcon icon={faInstagramSquare}/></li>
-                <li><FontAwesomeIcon icon={faGithubSquare}/></li>
+                <li><a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faTwitterSquare}/></a></li>
+                <li><a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faFacebookSquare}/></a></li>
+                <li><a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faInstagramSquare}/></a></li>
+                <li><a href="https://www.github.com/victoria-parker" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithubSquare}/></a></li>
             </ul>
         </footer>
     )
