@@ -17,7 +17,7 @@ export default function Info(){
             <h3>github.com/victoria-parker</h3>
             <div className="buttons">
                 <a className="btn" id="btn-email" href="mailto:mail@example.com"><FontAwesomeIcon icon={faEnvelope}/>Email</a>
-                <a className="btn" id="btn-linkedin" href="https://www.linkedin.com/in/victoria-parker-web-developer/"><FontAwesomeIcon icon={faLinkedin}/> LinkedIn</a>
+                <a className="btn" id="btn-linkedin" href="https://www.linkedin.com/in/victoria-parker-web-developer/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin}/> LinkedIn</a>
             </div>
                 
         </div>
