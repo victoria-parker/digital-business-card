@@ -32,11 +32,13 @@ body{
     font-weight: 400;
     margin-top: 6px;
 }
-.info h3{
+.info h3 a{
     font-size: 10.24px;
     line-height: 150%;
     font-weight: normal;
     margin-top: 8.81px;
+    text-decoration: none;
+    color:#F5F5F5;
 }
 #portrait{
     overflow: hidden;
