@@ -1,4 +1,4 @@
-# Scrimba Project - React Info Site
+# Scrimba Project - React Digital Business Card
 
 This is a project built with React from the [Scrimba](https://scrimba.com/learn/learnreact) React course. Feedback and questions are welcome!
 
