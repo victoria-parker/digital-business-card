@@ -2,7 +2,7 @@
   "name": "digital-business-card",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://victoria-parker.github.io",
+  "homepage": "https://victoria-parker.github.io/digital-business-card",
   "dependencies": {
     "@fortawesome/fontawesome-free-solid": "^5.0.13",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
